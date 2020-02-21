@@ -17,7 +17,7 @@
   <li><strong><a href="index1.html">Home</a></strong></li>
 <li><strong><a href="apple-ii.html">Apple II</a></strong></li>
 <li><strong><a href="commodore-64.html">Commodore 64</a></strong></li>
-<li><strong><a href="trs-80.html">TRS 80</a></strong></li>
+<li><strong><a href="trs-80.md">TRS 80</a></strong></li>
 </ul>
 </p>
 
